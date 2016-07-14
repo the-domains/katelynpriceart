@@ -1,7 +1,7 @@
 name: katelynpriceart
 favicon: null
-layout_spectrum: 0.4306749526876956
-typography_spectrum: 0.9095617004204541
+layout_spectrum: 0.49931
+typography_spectrum: 0.51794
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#f9ffff'
+    - '#ffbd00'
+    - '#654248'
+    - '#da14fc'
   brandStrength: 0.5061409450136125
   lightness: 0.8468621396459639
   saturation: 0.8002835817169398
-  rhythmicContrast: 0.24009144050069153
+  rhythmicContrast: 0.75
 purpose: []
